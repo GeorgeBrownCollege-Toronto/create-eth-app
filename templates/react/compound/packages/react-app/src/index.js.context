@@ -1,0 +1,7 @@
+{
+  "comments": [
+    "This is the official Compound subgraph. You can replace it with your own, if you need to.",
+    "See all subgraphs: https://thegraph.com/explorer/"
+  ],
+  "subgraphUri": "https://api.thegraph.com/subgraphs/name/graphprotocol/compound-v2"
+}
